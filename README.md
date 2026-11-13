@@ -203,4 +203,4 @@ This repository serves as the official landing page for SpanishDict. The softwar
 **Get the most recent version of SpanishDict today!**
 
 ---
-**Last updated:** 2026-11-12 23:25:57 UTC
+**Last updated:** 2026-11-13 06:02:44 UTC
